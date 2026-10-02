@@ -69,8 +69,7 @@ AI-Resume-Job-Match-Analyzer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Resume-Job-Match-Analyzer.git
-```
+https://sandhiyas07.github.io/AI-Resume-Job-Match-Analyzer/
 
 ### 2. Open the Project Folder
 
@@ -191,27 +190,12 @@ Provides suggestions for improving the resume based on the missing skills.
 * Useful for students and freshers
 * Helps improve resume relevance
 
-## Screenshots
-
-Add your project screenshots here after running the application.
-
-```text
-screenshots/
-└── demo.png
-```
-
-You can display a screenshot in this README using:
-
-```markdown
-![AI Resume & Job Match Analyzer](screenshots/demo.png)
-```
-
 ## Demo Video
 
 Add your project demonstration video link here:
 
 ```text
-Demo Video:
+Demo Video:https://drive.google.com/file/d/1Z5inS0PR0K7JUqObznv9vQc0Q5eBic2Z/view?usp=sharing
 ```
 
 ## Author
